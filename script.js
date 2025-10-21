@@ -113,7 +113,7 @@ if (document.getElementById("orderForm")) {
     message += `------------------------%0ATotal: ₹${total}%0A`;
 
     // Change this to YOUR WhatsApp number (with country code, no +)
-    const whatsappNumber = "7670988304";
+    const whatsappNumber = "9346118502";
     const whatsappURL = `https://wa.me/${whatsappNumber}?text=${message}`;
     window.open(whatsappURL, "_blank");
 
