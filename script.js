@@ -1,9 +1,9 @@
 // 🧩 Product List - 40 Eicher Tractor Spare Parts
 const products = [
   { id: 1, name: "Engine Oil Filter", price: 350, image: "https://5.imimg.com/data5/SELLER/Default/2022/10/RL/XP/TP/68262083/round-automotive-oil-filter-1000x1000.jpg" },
-  { id: 2, name: "Air Filter", price: 500, image: "https://th.bing.com/th/id/OIP.6r3MRQLg5Oeb1KpRXq5JpQHaHa?w=179&h=180&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3" },
+  { id: 2, name: "Air Filter", price: 500, image: "https://www.vikingsauto.in/wp-content/uploads/2022/01/COMBO-OIL-FILTER-1.jpg" },
   { id: 3, name: "Fuel Filter", price: 420, image: "https://th.bing.com/th/id/OIP.7wntYiG17BJvJQrxGA_wFwHaE8?w=272&h=181&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3" },
-  { id: 4, name: "Piston Kit", price: 2800, image: "https://via.placeholder.com/150" },
+  { id: 4, name: "Piston Kit", price: 2800, image: "https://th.bing.com/th?q=Tractor+Piston+Kits&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&dpr=1.3&pid=InlineBlock&rm=3&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247" },
   { id: 5, name: "Cylinder Head Gasket", price: 550, image: "https://via.placeholder.com/150" },
   { id: 6, name: "Fuel Pump", price: 2200, image: "https://via.placeholder.com/150" },
   { id: 7, name: "Radiator Hose", price: 250, image: "https://via.placeholder.com/150" },
