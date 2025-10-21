@@ -2,7 +2,7 @@
 const products = [
   { id: 1, name: "Engine Oil Filter", price: 350, image: "https://5.imimg.com/data5/SELLER/Default/2022/10/RL/XP/TP/68262083/round-automotive-oil-filter-1000x1000.jpg" },
   { id: 2, name: "Air Filter", price: 500, image: "https://th.bing.com/th/id/OIP.6r3MRQLg5Oeb1KpRXq5JpQHaHa?w=179&h=180&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3" },
-  { id: 3, name: "Fuel Filter", price: 420, image: "https://via.placeholder.com/150" },
+  { id: 3, name: "Fuel Filter", price: 420, image: "https://th.bing.com/th/id/OIP.7wntYiG17BJvJQrxGA_wFwHaE8?w=272&h=181&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3" },
   { id: 4, name: "Piston Kit", price: 2800, image: "https://via.placeholder.com/150" },
   { id: 5, name: "Cylinder Head Gasket", price: 550, image: "https://via.placeholder.com/150" },
   { id: 6, name: "Fuel Pump", price: 2200, image: "https://via.placeholder.com/150" },
